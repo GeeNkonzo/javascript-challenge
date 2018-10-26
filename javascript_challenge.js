@@ -54,7 +54,23 @@ console.log(doubles);
 
 // write your function here
 
+var array = ['apple','pear','banana','strawberry'];
+var i = 0;
+
+if (array[i]== 'strawberry') {
+    return array = 'true';
+}
+
+else 
+    return array = 'false';
+i++;
+
+
 // call your function here
+
+console.log(array);
+
+// I am unsure about what I am doing, my code is not working
 
 // 4. Bonus Exercise 
 // Life isn't always easy as a small word amongst big words. If only they had a code warrior to help them out...
